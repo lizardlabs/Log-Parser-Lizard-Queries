@@ -1,4 +1,4 @@
-# Log-Parser-Lizard-Queries
+# Log Parser Lizard queries
 
 Microsoft Log Parser and Log Parser Lizard sample queries:
 
@@ -8,4 +8,4 @@ For more information, please visit Lizard Labs Software web site:
 
 http://www.lizard-labs.com/log_parser_lizard.aspx
 
-### UNDER CONSTRUCTION
+
